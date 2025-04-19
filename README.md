@@ -1,4 +1,5 @@
-Overview
+Overview :
+
 This project focuses on developing a linear regression model, a fundamental machine learning technique,
 to identify relationships between variables and make predictions.
 The goal is to explore the dataset and apply statistical insights for accurate trend analysis.
